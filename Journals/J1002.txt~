@@ -1,0 +1,67 @@
+Name: Arnav Logan
+Journal: J1002
+Date: 8/16/22
+
+I recieved assistance from: No one
+
+I assisted: No one
+
+1.1:
+Two services that I use which are implemented using a client-server model are: Youtube, GeforceNow
+
+2.1:
+The ability of two different users creating a directory with the same name is useful because it allows users to make directories with any name and not have to worry about unique directory names.
+
+3.1:
+The home directory probably has a special symbol so it is easy to identify.
+
+4.1:
+The prompt changed, it is useful because it always shows your current directory.
+
+5.1:
+Pressing the up arrow key cycles through previous commands.
+
+5.2:
+Pressing the down arrow key cycles back through prevoius commands.
+
+6.1:
+The text was not printed to the screen because it got redirected into the file.
+
+7.1:
+The ls command prints everying in the current directory while the tree command prints everything below a specified directory.
+
+7.2:
+You would use the ls command to look at just one directory and the tree command to look at multiple directories.
+
+8.1:
+The argument to the sleep command specifies the time waited before returning.
+
+8.2:
+I am able to prove my hypothesis by seeing that a higher number argument to the sleep command waits a longer time.
+
+9.1:
+The job runs in the background so the shell does not need to wait for it.
+
+9.2:
+I think that running a job in the background means that it does not pause the main system.
+
+9.3:
+The number in the bracket is the job number, starting from 1 and going up.
+
+10.1:
+The jobs command shows all current running jobs and all finished jobs.
+
+10.2:
+The jobs command lists running jobs and which ones are finished.
+
+What did I learn? What is the 'big idea'?
+Basic shell commands
+
+What challenges did I encounter?
+None
+
+How could this experience be improved?
+None
+
+Free reflection: How has what I've learned affected my thinking?
+The shell can be used for a variety of uses

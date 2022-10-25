@@ -1,0 +1,73 @@
+================================================================================
+1. In emacs, the extended command "replace-string" can be used to replace strings.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. In emacs, an incremental reverse search may be initiated with the key sequence:
+------------------------------------------------------------
+	A.  C-r
+	B.  C-x C-r
+	C.  M-r
+	D.  M-x reverse-search
+
+================================================================================
+3. In emacs, completion of commands and file names can be invoked with the key sequence:
+------------------------------------------------------------
+	A.  M-c
+	B.  TAB
+	C.  C-c
+	D.  M-x
+
+================================================================================
+4. In emacs, to begin inserting text, the key sequence ":I" (colon followed by an uppercase I) is required.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. In emacs, the cursor can be moved to another window with the key sequence:
+------------------------------------------------------------
+	A.  C-x 2
+	B.  C-x 1
+	C.  C-x 0 (the second character is the digit zero)
+	D.  C-x o (the second character is a lowercase "O")
+
+================================================================================
+6. In emacs, unless you explicitly save a file that you are editing, you'll always lose all of your work if the computer crashes.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7. In emacs, to move the cursor to the end of a sentence, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-e
+	B.  M-f
+	C.  M-e
+	D.  C-f
+
+================================================================================
+8. In emacs, to move the cursor to the end of the file, the correct key sequence is:
+------------------------------------------------------------
+	A.  ESC->
+	B.  ESC-<
+	C.  C-e
+	D.  C-b
+
+================================================================================
+9. When using emacs in a text terminal, long text lines which are continued on to another screen line are indicated by which character on the rightmost screen column?
+------------------------------------------------------------
+	A.  / (a forward slash)
+	B.  $ (a dollar sign)
+	C.  ! (an exclamation point)
+	D.  \ (a backslash)
+
+================================================================================
+10. In emacs, to move the cursor backward a single word, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-f
+	B.  C-b
+	C.  M-f
+	D.  M-b

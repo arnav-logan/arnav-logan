@@ -1,0 +1,109 @@
+================================================================================
+1. The command to echo text to the screen is:
+------------------------------------------------------------
+	A.  print
+	B.  write
+	C.  echo
+	D.  display
+
+================================================================================
+2. The client-server model typically requires that users of the service purchase very expensive hardware, sufficiently powerful to provide the services required.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. What symbol is used to represent the user's home directory?
+------------------------------------------------------------
+	A.  \ ( a backslash)
+	B.  $ (a dollar sign)
+	C.  / (a slash or forward slash)
+	D.  ~ (a tilde)
+
+================================================================================
+4. A command which will print the contents of a file to standard output is:
+------------------------------------------------------------
+	A.  echo
+	B.  print
+	C.  cat
+	D.  dog
+
+================================================================================
+5. In linux, the top of the directory tree is called the root and is referred to by which character?
+------------------------------------------------------------
+	A.  \ (a backslash)
+	B.  / ( a slash or forward slash)
+	C.  // (a double, forward slash)
+	D.  $ (a dollar sign)
+
+================================================================================
+6. In Linux, all files are integrated into a single, hierarchical directory structure that appears as an inverted tree.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7. The command used to create a new directory is:
+------------------------------------------------------------
+	A.  cd
+	B.  createdir
+	C.  mkdir
+	D.  cwd
+
+================================================================================
+8. What command can be used to view a directory hierarchy?
+------------------------------------------------------------
+	A.  ls
+	B.  tree
+	C.  shrb
+	D.  pwd
+
+================================================================================
+9. The command to return to the previous directory after a command was issued to temporarily change the directory is:
+------------------------------------------------------------
+	A.  popd
+	B.  pd
+	C.  pushd
+	D.  pwd
+
+================================================================================
+10. Unix integrates all files into a single directory structure.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+11. The command to list the contents of a directory is:
+------------------------------------------------------------
+	A.  listdir
+	B.  list
+	C.  ls (lowercase "L", lowercase "S")
+	D.  ld (lowercase "L", lowercase "D")
+
+================================================================================
+12. The command to display the current working directory is:
+------------------------------------------------------------
+	A.  cd
+	B.  pwd
+	C.  cwd
+	D.  ecd
+
+================================================================================
+13. Redirection may be used to direct standard output to a file.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+14. The command to change to a new directory temporarily is:
+------------------------------------------------------------
+	A.  cwd
+	B.  cd
+	C.  pushd
+	D.  popd
+
+================================================================================
+15. A client-server model is a means of distributing resources between the provider of a service and a consumer of that service, the client.
+------------------------------------------------------------
+	A.  True
+	B.  False

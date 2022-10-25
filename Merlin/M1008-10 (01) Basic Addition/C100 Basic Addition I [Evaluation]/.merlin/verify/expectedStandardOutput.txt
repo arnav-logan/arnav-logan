@@ -1,0 +1,10 @@
+Int = -78
+Int = 77
+Int = -105
+Int = 152
+Int = 59
+Int = 40
+Int = -112
+Int = 114
+Int = -90
+Int = 97

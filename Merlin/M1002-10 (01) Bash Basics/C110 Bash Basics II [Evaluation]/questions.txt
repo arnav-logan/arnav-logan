@@ -1,0 +1,37 @@
+================================================================================
+1. A directory provides a logical grouping of related files and potentially other directories.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. The command to return to the previous directory after a command was issued to temporarily change the directory is:
+------------------------------------------------------------
+	A.  popd
+	B.  pushd
+	C.  pd
+	D.  pwd
+
+================================================================================
+3. Which of the following commands will append text to an existing file?
+------------------------------------------------------------
+	A.  echo "Hello, again!" << out.txt
+	B.  echo "Hello, again!" >> out.txt
+	C.  echo "Hello, again!" < out.txt
+	D.  echo "Hello, again!" > out.txt
+
+================================================================================
+4. What symbol is used to represent the user's home directory?
+------------------------------------------------------------
+	A.  / (a slash or forward slash)
+	B.  $ (a dollar sign)
+	C.  ~ (a tilde)
+	D.  \ ( a backslash)
+
+================================================================================
+5. What command can be used to view a manual about a topic?
+------------------------------------------------------------
+	A.  man
+	B.  emanual
+	C.  eman
+	D.  manual

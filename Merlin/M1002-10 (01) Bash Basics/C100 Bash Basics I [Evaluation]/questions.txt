@@ -1,0 +1,33 @@
+================================================================================
+1. The client-server model typically requires that users of the service purchase very expensive hardware, sufficiently powerful to provide the services required.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. A file is either a destination or source for a stream of data.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. What command, by default, can be used to remove an empty directory?
+------------------------------------------------------------
+	A.  rd
+	B.  remove
+	C.  rmdir
+	D.  rm
+
+================================================================================
+4. In Linux, all files are integrated into a single, hierarchical directory structure that appears as an inverted tree.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. What command can be used to view a directory hierarchy?
+------------------------------------------------------------
+	A.  tree
+	B.  ls
+	C.  shrb
+	D.  pwd

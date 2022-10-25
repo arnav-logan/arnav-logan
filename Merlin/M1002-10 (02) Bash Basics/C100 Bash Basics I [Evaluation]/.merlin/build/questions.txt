@@ -1,0 +1,35 @@
+================================================================================
+1. The command to display the current working directory is:
+------------------------------------------------------------
+	A.  cd
+	B.  cwd
+	C.  ecd
+	D.  pwd
+
+================================================================================
+2. The client-server model typically requires that users of the service purchase very expensive hardware, sufficiently powerful to provide the services required.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. The command to return to the previous directory after a command was issued to temporarily change the directory is:
+------------------------------------------------------------
+	A.  pd
+	B.  pushd
+	C.  popd
+	D.  pwd
+
+================================================================================
+4. Paths which begin at the root are called relative paths.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. The command to echo text to the screen is:
+------------------------------------------------------------
+	A.  echo
+	B.  print
+	C.  write
+	D.  display

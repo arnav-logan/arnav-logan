@@ -1,0 +1,111 @@
+================================================================================
+1. The term used to describe the user interface which provides access to an operating system's services is:
+------------------------------------------------------------
+	A.  CPU
+	B.  bus
+	C.  ALU
+	D.  shell
+
+================================================================================
+2. Paths which begin at the root are called relative paths.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. Which of the following commands will append text to an existing file?
+------------------------------------------------------------
+	A.  echo "Hello, again!" >> out.txt
+	B.  echo "Hello, again!" > out.txt
+	C.  echo "Hello, again!" < out.txt
+	D.  echo "Hello, again!" << out.txt
+
+================================================================================
+4. What command can be used to view a directory hierarchy?
+------------------------------------------------------------
+	A.  ls
+	B.  pwd
+	C.  tree
+	D.  shrb
+
+================================================================================
+5. What command can be used to clear the screen?
+------------------------------------------------------------
+	A.  clear
+	B.  clrscr
+	C.  cs
+	D.  clr
+
+================================================================================
+6. The command to create a new file (or update the timestamp on a file which already exists) is:
+------------------------------------------------------------
+	A.  upfile
+	B.  mkfile
+	C.  touch
+	D.  create
+
+================================================================================
+7. What command, by default, can be used to remove an empty directory?
+------------------------------------------------------------
+	A.  rd
+	B.  rmdir
+	C.  rm
+	D.  remove
+
+================================================================================
+8. The client-server model is typically only effective over short distances.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+9. What command can be used to view a manual about a topic?
+------------------------------------------------------------
+	A.  manual
+	B.  emanual
+	C.  eman
+	D.  man
+
+================================================================================
+10. In linux, the top of the directory tree is called the root and is referred to by which character?
+------------------------------------------------------------
+	A.  / ( a slash or forward slash)
+	B.  // (a double, forward slash)
+	C.  $ (a dollar sign)
+	D.  \ (a backslash)
+
+================================================================================
+11. The client-server model typically requires that users of the service purchase very expensive hardware, sufficiently powerful to provide the services required.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+12. The command to change to a new directory temporarily is:
+------------------------------------------------------------
+	A.  pushd
+	B.  popd
+	C.  cwd
+	D.  cd
+
+================================================================================
+13. The client-server model is antiquated and is no longer commonly used.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+14. The command to list the contents of a directory is:
+------------------------------------------------------------
+	A.  list
+	B.  ls (lowercase "L", lowercase "S")
+	C.  ld (lowercase "L", lowercase "D")
+	D.  listdir
+
+================================================================================
+15. The command to echo text to the screen is:
+------------------------------------------------------------
+	A.  display
+	B.  echo
+	C.  write
+	D.  print

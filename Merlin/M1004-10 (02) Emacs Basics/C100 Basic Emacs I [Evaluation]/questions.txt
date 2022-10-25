@@ -1,0 +1,73 @@
+================================================================================
+1. In emacs, the difference between "killing" and "deleting" text is that "deleted" text can be reinserted at any position, whereas "killed" text cannot be reinserted in this way.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. In emacs, the asterisks (stars) at the front of the mode line indicate:
+------------------------------------------------------------
+	A.  No changes have been made to the buffer that have not already been saved to the file.
+	B.  Emacs is busy in a CPU intensive task.
+	C.  Changes have been made to the buffer that have not yet been saved to the file.
+	D.  Emacs is busy accessing the disk.
+
+================================================================================
+3. In emacs, to move the cursor backward a single character, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-b
+	B.  C-p
+	C.  M-p
+	D.  C-b
+
+================================================================================
+4. In emacs, to kill the word immediately before the cursor, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-DEL
+	B.  DEL
+	C.  M-DEL
+	D.  M-k
+
+================================================================================
+5. In emacs, the mode line includes information to indicate the percent of buffer above the top of the screen.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+6. In emacs, to scroll up (backwards), the correct key sequence is:
+------------------------------------------------------------
+	A.  C-n
+	B.  C-v
+	C.  M-v
+	D.  C-p
+
+================================================================================
+7. In emacs, to move the cursor to the end of the line, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-e
+	B.  M-a
+	C.  C-a
+	D.  M-e
+
+================================================================================
+8. To get help in emacs, the correct key sequence is:
+------------------------------------------------------------
+	A.  SHIFT-h
+	B.  META-h
+	C.  CTRL-h
+	D.  FUNCTION-h
+
+================================================================================
+9. In emacs, to kill the next word after the cursor, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-DEL
+	B.  M-e
+	C.  M-d
+	D.  C-d
+
+================================================================================
+10. In emacs, a newline character can be deleted just like any other character.
+------------------------------------------------------------
+	A.  True
+	B.  False

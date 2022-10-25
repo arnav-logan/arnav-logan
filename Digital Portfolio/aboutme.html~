@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>About Me</title>
+    <link rel="stylesheet" href="CS-I/defstyle.css">
+  </head>
+
+  <body>
+    <a href="./index.html">Back</a>
+    <h1>About Me</h1>
+    <p>Hello, I'm Arnav Logan and this is my digital portfolio</p>
+    <p>My digital portfolio is important to me becuase it is a reflection of what I learned and journals for Coder Merlin lessons have to be published there to be graded.</p>
+    <img src="https://www.codermerlin.com/wiki/images/thumb/3/36/MerlinAtDesk.jpg/500px-MerlinAtDesk.jpg" alt="Coder Merlin"> <br>
+    <p>How this page was made with html</p>
+    <iframe src="https://www.codermerlin.com/wiki/index.php/HTML" width="1500" height="900" title="How this page was made"></iframe>
+
+
+  </body>
+  </html>

@@ -1,0 +1,73 @@
+================================================================================
+1. In emacs, repeating the key sequence C-a will do nothing.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. In emacs, to move the cursor up a single line, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-p
+	B.  C-u
+	C.  C-p
+	D.  M-u
+
+================================================================================
+3. In emacs, the screen can be split horizontally with the key sequence:
+------------------------------------------------------------
+	A.  C-x 0 (the second character is the digit zero)
+	B.  C-x 1
+	C.  C-x 2
+	D.  C-x 3
+
+================================================================================
+4. In emacs, to switch to a specified buffer, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-b
+	B.  C-x b
+	C.  C-x C-b
+	D.  C-b C-x
+
+================================================================================
+5. In emacs, there are some buffers which do not correspond to files.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+6. In emacs, the search command is incremental.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7. In emacs, to move the cursor down a single line, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-n
+	B.  C-d
+	C.  M-d
+	D.  M-n
+
+================================================================================
+8. In emacs, to move the cursor to the end of a sentence, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-f
+	B.  C-e
+	C.  C-f
+	D.  M-e
+
+================================================================================
+9. In emacs, to move the cursor to the beginning of the line, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-a
+	B.  C-e
+	C.  M-e
+	D.  C-a
+
+================================================================================
+10. When using emacs in a text terminal, long text lines which are continued on to another screen line are indicated by which character on the rightmost screen column?
+------------------------------------------------------------
+	A.  ! (an exclamation point)
+	B.  $ (a dollar sign)
+	C.  / (a forward slash)
+	D.  \ (a backslash)
