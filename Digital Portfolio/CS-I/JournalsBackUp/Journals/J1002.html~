@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+      <title>J1002</title>
+      <style>
+	body {background-color: black}
+	h2, h3, p {color: white}
+	body {font-family: sans-serif}
+	a {color: red}
+      </style>
+    </head>
+    
+    <body>
+      <a href="../index.html">Back</a>
+      <h2>
+	Name: Arnav Logan <br>
+	Journal: J1002 <br>
+	Date: 16-Aug-2022 <br>
+      </h2>
+      
+      <p>I recieved assistance from: No one</p>
+
+      <p>I assisted: No one</p> <br>
+
+      <h2>Section 1</h2>
+      <h3>Question 1: Name at least two other services that you personally use which are implemented using a Client/Server Model.</h3>
+      <p>Two services that I use which are implemented using a client-server model are: Youtube, GeforceNow.</p> <br>
+
+      <h2>Section 2</h2>
+      <h3>Question 1: Do you think the ability to have two different users create a directory of the same name is important? Why?</h3>
+      <p>Yes, The ability of two different users creating a directory with the same name is useful because it allows users to make directories with any name and not have to worry about unique directory names.</p> <br>
+
+      <h2>Section 3</h2>
+      <h3>Question 1: Why do you think the home directory has a special symbol to represent it?</h3>
+      <p>The home directory probably has a special symbol so it is easy to identify.</p> <br>
+
+      <h2>Section 4</h2>
+      <h3>Question 1: Did the prompt change? If so, how? Why is this useful?</h3>
+      <p>The prompt changed, it is useful because it always shows your current directory.</p> <br>
+
+      <h2>Section 5</h2>
+      <h3>Question 1: What happens each time you press the up arrow key?</h3>
+      <p>Pressing the up arrow key cycles forward through previous commands.<p>
+
+      <h3>Question 2: What happens each time you press the down arrow key?</h3>
+      <p>Pressing the down arrow key cycles back through prevoius commands.</p> <br>
+	
+      <h2>Section 6</h2>
+      <h3>Question 1: Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?</h3>
+      <p>The text was not printed to the screen because it got redirected into the file.</p> <br>
+
+      <h2>Section 7</h2>
+      <h3>Question 1: How does the ls command differ from the tree command?</h3>
+      <p>The ls command prints everying in the current directory while the tree command prints everything below a specified directory.</p>
+
+      <h3>Question 2: How do you choose to use one over the other?</h3>
+      <p>You would use the ls command to look at just one directory and the tree command to look at multiple directories.</p> <br>
+
+      <h2>Section 8</h2>
+      <h3>Question 1: What do you think the argument to sleep specifies?</h3>
+      <p>The argument to the sleep command specifies the time waited before returning.</p>
+
+      <h3>Question 2: Are you able to prove your hypothesis? How?</h3>
+      <p>I am able to prove my hypothesis by seeing that a higher number argument to the sleep command waits a longer time.</p> <br>
+
+      <h2>Section 9</h2>
+      <h3>Question 1: How is the behavior different from what you expected?</h3>
+      <p>The job runs in the background so the shell does not need to wait for it.</p>
+
+      <h3>Question 2: What do you think it means to run a job in the background?</h3>
+      <p>I think that running a job in the background means that it does not pause the main system.</p>
+
+      <h3>Question 3: What do you think the number displayed in brackets specifies?</h3>
+      <p>The number in the bracket is the job number, starting from 1 and going up.</p> <br>
+
+      <h2>Section 10</h2>
+      <h3>Question 1: What do you observe as you execute the jobs command?</h3>
+      <p>The jobs command shows all current running jobs and all finished jobs.</p>
+
+      <h3>Question 2: How do you explain your observations?</h3>
+      <p>The jobs command lists running jobs and which ones are finished.</p> <br>
+
+      <h3>What did I learn? What is the 'big idea'?</h3>
+      <p>How the shell works and commands for it.</p> <br>
+
+      <h3>What challenges did I encounter?</h3>
+      <p>Some commands were not explained in detail so I was confused on how they fully work.</p> <br>
+
+      <h3>How could this experience be improved?</h3>
+      <p>By making a list of shell commands so they are easier to remember.</p> <br>
+
+      <h3>Free reflection: How has what I've learned affected my thinking?</h3>
+      <p>I learned that the shell can be used for a variety of uses</p>
+    </body>
+</html>
